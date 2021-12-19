@@ -137,9 +137,9 @@
           "label": "ENTER"
         },
         {
-          "keyCode": 57,
-          "label": "CAPSLOCK",
-          "verbose": "Caps Lock"
+          "keyCode": 224,
+          "label": "LEFT CTRL",
+          "verbose": "Left Control"
         },
         {
           "keyCode": 4,
@@ -313,9 +313,8 @@
           "extraLabel": "MOVE"
         },
         {
-          "keyCode": 42,
-          "label": "BACKSPACE",
-          "verbose": "Backspace"
+          "keyCode": 40,
+          "label": "ENTER"
         },
         {
           "keyCode": 42,
@@ -422,26 +421,24 @@
           "label": "TAB"
         },
         {
-          "keyCode": 0,
-          "label": "NO KEY",
-          "verbose": "Disabled"
+          "keyCode": 20,
+          "label": "Q"
         },
         {
-          "keyCode": 74,
-          "label": "HOME"
+          "keyCode": 26,
+          "label": "W"
         },
         {
           "keyCode": 82,
           "label": "↑"
         },
         {
-          "keyCode": 77,
-          "label": "END"
+          "keyCode": 21,
+          "label": "R"
         },
         {
-          "keyCode": 0,
-          "label": "NO KEY",
-          "verbose": "Disabled"
+          "keyCode": 23,
+          "label": "T"
         },
         {
           "keyCode": 0,
@@ -495,14 +492,13 @@
           "verbose": "Transparent"
         },
         {
-          "keyCode": 49226,
-          "label": "CAPSLOCK",
-          "extraLabel": "CTRL/"
+          "keyCode": 224,
+          "label": "LEFT CTRL",
+          "verbose": "Left Control"
         },
         {
-          "keyCode": 0,
-          "label": "NO KEY",
-          "verbose": "Disabled"
+          "keyCode": 4,
+          "label": "A"
         },
         {
           "keyCode": 80,
@@ -669,8 +665,8 @@
           "verbose": "Left Alt"
         },
         {
-          "keyCode": 44,
-          "label": "SPACE"
+          "keyCode": 40,
+          "label": "ENTER"
         },
         {
           "keyCode": 44,
@@ -682,32 +678,31 @@
           "verbose": "Disabled"
         },
         {
+          "keyCode": 41,
+          "label": "ESC"
+        },
+        {
+          "keyCode": 17492,
+          "label": "0",
+          "extraLabel": "MOVE"
+        },
+        {
+          "keyCode": 40,
+          "label": "ENTER"
+        },
+        {
           "keyCode": 42,
           "label": "BACKSPACE",
           "verbose": "Backspace"
         },
         {
-          "keyCode": 17492,
-          "label": "0",
-          "extraLabel": "MOVE"
-        },
-        {
-          "keyCode": 17492,
-          "label": "0",
-          "extraLabel": "MOVE"
-        },
-        {
-          "keyCode": 17154,
-          "label": "TOGGLE",
-          "extraLabel": "LED"
-        },
-        {
           "keyCode": 44,
           "label": "SPACE"
         },
         {
-          "keyCode": 44,
-          "label": "SPACE"
+          "keyCode": 42,
+          "label": "BACKSPACE",
+          "verbose": "Backspace"
         },
         {
           "keyCode": 230,
@@ -5443,13 +5438,13 @@
       8,
       8,
       4,
-      15,
-      9,
+      2,
+      2,
       0,
-      9,
-      15,
+      2,
+      2,
       7,
-      15,
+      2,
       0,
       0,
       0,
@@ -5502,7 +5497,7 @@
       4,
       1,
       1,
-      11,
+      3,
       3,
       6,
       6,
