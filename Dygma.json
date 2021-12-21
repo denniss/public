@@ -270,9 +270,9 @@
           "label": "/"
         },
         {
-          "keyCode": 49158,
+          "keyCode": 229,
           "label": "RIGHT SHIFT",
-          "extraLabel": "OSM",
+          "extraLabel": "",
           "verbose": "Right Shift"
         },
         {
@@ -291,8 +291,9 @@
           "verbose": "Left Alt"
         },
         {
-          "keyCode": 40,
-          "label": "ENTER"
+          "keyCode": 42,
+          "label": "BACKSPACE",
+          "verbose": "Backspace"
         },
         {
           "keyCode": 44,
@@ -326,9 +327,8 @@
           "label": "SPACE"
         },
         {
-          "keyCode": 42,
-          "label": "BACKSPACE",
-          "verbose": "Backspace"
+          "keyCode": 40,
+          "label": "ENTER"
         },
         {
           "keyCode": 80,
@@ -705,10 +705,9 @@
           "verbose": "Backspace"
         },
         {
-          "keyCode": 230,
-          "label": "RIGHT ALT",
-          "extraLabel": "",
-          "verbose": "AltGr"
+          "keyCode": 0,
+          "label": "NO KEY",
+          "verbose": "Disabled"
         },
         {
           "keyCode": 80,
