@@ -291,8 +291,9 @@
           "verbose": "Left Alt"
         },
         {
-          "keyCode": 40,
-          "label": "ENTER"
+          "keyCode": 42,
+          "label": "BACKSPACE",
+          "verbose": "Backspace"
         },
         {
           "keyCode": 44,
@@ -313,22 +314,22 @@
           "extraLabel": "MOVE"
         },
         {
-          "keyCode": 40,
-          "label": "ENTER"
+          "keyCode": 49162,
+          "label": "1",
+          "extraLabel": "OSL"
         },
         {
-          "keyCode": 42,
-          "label": "BACKSPACE",
-          "verbose": "Backspace"
+          "keyCode": 227,
+          "label": "LEFT CMD",
+          "verbose": "Left Cmd"
         },
         {
           "keyCode": 44,
           "label": "SPACE"
         },
         {
-          "keyCode": 42,
-          "label": "BACKSPACE",
-          "verbose": "Backspace"
+          "keyCode": 40,
+          "label": "ENTER"
         },
         {
           "keyCode": 80,
@@ -532,24 +533,20 @@
           "verbose": "Disabled"
         },
         {
-          "keyCode": 0,
-          "label": "NO KEY",
-          "verbose": "Disabled"
+          "keyCode": 80,
+          "label": "←"
         },
         {
-          "keyCode": 0,
-          "label": "NO KEY",
-          "verbose": "Disabled"
+          "keyCode": 81,
+          "label": "↓"
         },
         {
-          "keyCode": 0,
-          "label": "NO KEY",
-          "verbose": "Disabled"
+          "keyCode": 82,
+          "label": "↑"
         },
         {
-          "keyCode": 0,
-          "label": "NO KEY",
-          "verbose": "Disabled"
+          "keyCode": 79,
+          "label": "→"
         },
         {
           "keyCode": 0,
